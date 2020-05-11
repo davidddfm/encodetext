@@ -1,7 +1,7 @@
 {
   "name": "encodetext",
   "type": "module",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "description": "package paquete para codificar textos de diferentes formas",
   "main": "index.mjs",
   "repository": {
