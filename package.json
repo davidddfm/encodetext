@@ -1,0 +1,19 @@
+{
+  "name": "encodetext",
+  "version": "2.0.2",
+  "description": "package paquete para codificar textos de diferentes formas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidddfm/encodetext.git"
+  },
+  "author": "davidddfm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidddfm/encodetext/issues"
+  },
+  "homepage": "https://github.com/davidddfm/encodetext#readme"
+}
